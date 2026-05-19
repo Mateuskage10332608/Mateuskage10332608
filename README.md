@@ -19,7 +19,7 @@ class MateusMoya:
     def __init__(self):
         self.nome        = "Mateus Kage Moya"
         self.localizacao = "São Paulo, SP 🇧🇷"
-        self.formacao    = "Ciências da Computação — Mackenzie (3º sem)"
+        self.formacao    = "Ciências da Computação — Mackenzie (5º sem)"
         self.estagio     = "TI @ Parada Advogados"
         self.ingles      = "Cambridge CPE — C2 (Proficiente)"
         self.interesses  = ["Desenvolvimento de Software", "Game Dev", 

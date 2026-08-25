@@ -82,13 +82,11 @@ class MateusMoya:
         }
 ```
 
-Estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie, construindo sistemas reais — não só trabalhos de faculdade.
+Estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie.
 
 Na Parada Advogados, projetei e implementei uma automação em **Python + Playwright** que integra o ERP Odoo do escritório com um sistema externo de gestão de casos jurídicos, substituindo a entrada manual de dados entre as duas plataformas.
 
 Fora do trabalho, publico projetos completos: o **Majão**, um jogo de Mahjong adaptado e construído do zero em Godot 4, e o **Manga Tracker**, um app full-stack local com scraping multi-fonte, banco assíncrono e empacotamento em executável.
-
-Atualmente desenvolvendo meu TCC sobre **RPA aumentada por LLM**, usando meu próprio trabalho de automação como estudo de caso real.
 
 ## 🚀 Projetos em Destaque
 
@@ -145,13 +143,12 @@ class MateusMoya:
         }
 ```
 
-Computer Science student at Universidade Presbiteriana Mackenzie, building real systems — not just coursework.
+Computer Science student at Universidade Presbiteriana Mackenzie.
 
 At Parada Advogados, I designed and built a **Python + Playwright** automation integrating the firm's Odoo ERP with an external legal case-management platform, replacing manual data entry between systems.
 
 Outside of work, I ship complete projects: **Majão**, an adapted Mahjong game built from scratch in Godot 4, and **Manga Tracker**, a full-stack local app with multi-source scraping, an async database, and a packaged executable.
 
-Currently developing my undergraduate thesis on **LLM-augmented RPA**, using my own automation work as the real-world case study.
 
 ## 🚀 Featured Projects
 
